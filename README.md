@@ -40,11 +40,8 @@ An integrated solution designed to streamline the management of software project
 - Context API for state management
 
 ---
-
 ## 🚀 Getting Started
-
 ### 🌍 For Website:
-
 ```bash
 cd server
 npm install
